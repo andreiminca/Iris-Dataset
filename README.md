@@ -21,6 +21,9 @@ The main idea of Seaborn is that it provides high-level commands to create a var
 I used the KNN method to create a model to perform machine learning on our dataset. This method will responds correctly in 98% of cases.
 # References
 https://ncss-wpengine.netdna-ssl.com/wp-content/themes/ncss/pdf/Procedures/NCSS/Descriptive_Statistics-Summary_Tables.pdf
+
 https://towardsdatascience.com/understanding-boxplots-5e2df7bcbd51
+
 https://campus.datacamp.com/courses/intermediate-python-for-data-science/
+
 https://jakevdp.github.io/PythonDataScienceHandbook/04.14-visualization-with-seaborn.html
